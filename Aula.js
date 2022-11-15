@@ -38,4 +38,4 @@ switch (deyvid) {
 
     default :
     console.log('vixe man sai fora')
-};
+}; 
